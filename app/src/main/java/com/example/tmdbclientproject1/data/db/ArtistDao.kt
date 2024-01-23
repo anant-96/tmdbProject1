@@ -1,4 +1,4 @@
-package com.example.tmdbclientproject1.data
+package com.example.tmdbclientproject1.data.db
 
 import androidx.room.Dao
 import androidx.room.Insert
