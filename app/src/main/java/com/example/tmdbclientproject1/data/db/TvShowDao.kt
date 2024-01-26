@@ -4,7 +4,6 @@ import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.example.tmdbclientproject1.data.model.movie.Movie
 import com.example.tmdbclientproject1.data.model.tvShow.TvShow
 
 @Dao

@@ -5,7 +5,6 @@ import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import com.example.tmdbclientproject1.data.model.artist.Artist
-import com.example.tmdbclientproject1.data.model.movie.Movie
 
 @Dao
 interface ArtistDao {
